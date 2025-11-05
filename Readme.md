@@ -1,5 +1,5 @@
 
-# Assignment: JSON Schema Analyzer
+# Assignment III: JSON Schema Analyzer
 
 This assignment involves building a tool that analyzes a JSON document and infers its schema.
 
@@ -71,8 +71,8 @@ Your program will be evaluated based on the following criteria:
 
 - Start by working on simple JSON documents and gradually increase complexity.  
 - Use debugging tools to inspect the structure of the JSON data during traversal.  
-- You can use the example code (quickstart) to see how to use the library in Visual Studio.  
-- You can work in **teams of up to 3**.
+- You can use the example code ([quickstart](https://github.com/TeachingOW/simdjson-quickstart)) to see how to use the library in Visual Studio.  
+- You can work in **teams**.
 
 ---
 
@@ -83,4 +83,5 @@ To compile:
 ```bash
 g++ quickstart.cpp simdjson.cpp 
 ```
-
+### in Windows
+Add all files to the project
